@@ -1,4 +1,4 @@
-# Data-Analysis-Certifications
+
 Certificates for Google/Coursera Data Analysis Course
 
 https://www.coursera.org/account/accomplishments/certificate/N9KAKR3NBYBK
